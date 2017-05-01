@@ -11,6 +11,8 @@
 
 2. Tutoriais
 
+- [Introdução aos mapas em R](http://rstudio-pubs-static.s3.amazonaws.com/176768_ec7fb4801e3a4772886d61e65885fbdd.html)
+
 - [Intro to GIS and Spatial Analysis](https://mgimond.github.io/Spatial/index.html)
 
 - [Spatial Data Analysis and Modeling with R](http://www.rspatial.org/#)
