@@ -35,7 +35,10 @@
 
 - [Introduction to visualising spatial data in R](https://cran.r-project.org/doc/contrib/intro-spatial-rl.pdf)
 
-3. Cursos
+3. Sites
+- [GRÁFICOS MIOJO: MAPAS TEMÁTICOS DO BRASIL EM 3 MINUTOS OU MENOS](http://curso-r.com/blog/2017/05/04/2017-05-04-mapas-tematicos-3-minutos/)
+
+4. Cursos
 - [Working with Geospatial Data in R](https://www.datacamp.com/courses/working-with-geospatial-data-in-r)
 
 
