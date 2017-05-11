@@ -15,8 +15,6 @@
 
 - [Intro to GIS and Spatial Analysis](https://mgimond.github.io/Spatial/index.html)
 
-- [Spatial Data Analysis and Modeling with R](http://www.rspatial.org/#)
-
 - [spatial-analyst.net](http://spatial-analyst.net/wiki/index.php?title=Main_Page)
 
 - [Quantitative Methods in Spatial Ecology](http://evansmurphy.wixsite.com/evansspatial)
@@ -37,6 +35,8 @@
 
 3. Sites
 - [GRÁFICOS MIOJO: MAPAS TEMÁTICOS DO BRASIL EM 3 MINUTOS OU MENOS](http://curso-r.com/blog/2017/05/04/2017-05-04-mapas-tematicos-3-minutos/)
+
+- [Spatial Data Analysis and Modeling with R](http://www.rspatial.org/#)
 
 4. Cursos
 - [Working with Geospatial Data in R](https://www.datacamp.com/courses/working-with-geospatial-data-in-r)
