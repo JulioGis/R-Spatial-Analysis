@@ -42,7 +42,7 @@
 - [Working with Geospatial Data in R](https://www.datacamp.com/courses/working-with-geospatial-data-in-r)
 
 5. Aulas
-- [Curso de Análise de Dados Geográficos com R](http://home.isa.utl.pt/~mlc/slides_SIGs_com_R_junho_2015_raster.pdf) - Manuel Campagnolo
+- [Análise de Dados Geográficos com R](https://fenix.isa.ulisboa.pt/qubEdu/cursos/ce.adg_r/lateral/material-pedagogico) - Prof. Manuel Lameiras de Figueiredo Campagnolo
 
 
 ## 
