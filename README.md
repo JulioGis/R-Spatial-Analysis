@@ -40,6 +40,8 @@
 
 - [An Introduction to Spatial Data Analysis and Visualisation in R ](https://data.cdrc.ac.uk/tutorial/an-introduction-to-spatial-data-analysis-and-visualisation-in-r)
 
+- [IBGE](http://mapas.ibge.gov.br)
+
 4. Cursos
 - [Working with Geospatial Data in R](https://www.datacamp.com/courses/working-with-geospatial-data-in-r)
 
