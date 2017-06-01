@@ -42,6 +42,8 @@
 
 - [IBGE](http://mapas.ibge.gov.br)
 
+- [Intro to Geospatial Analysis in R](http://data-analytics.net/wp-content/uploads/2014/09/geo1.html)
+
 4. Cursos
 - [Working with Geospatial Data in R](https://www.datacamp.com/courses/working-with-geospatial-data-in-r)
 
