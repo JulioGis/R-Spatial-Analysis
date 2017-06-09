@@ -44,6 +44,8 @@
 
 - [Intro to Geospatial Analysis in R](http://data-analytics.net/wp-content/uploads/2014/09/geo1.html)
 
+- [Intro to GIS and Spatial Analysis](https://mgimond.github.io/Spatial/coordinate-systems.html) - Manuel Gimond
+
 4. Cursos
 - [Working with Geospatial Data in R](https://www.datacamp.com/courses/working-with-geospatial-data-in-r)
 
