@@ -35,7 +35,7 @@
 ## Sites
 - [GRÁFICOS MIOJO: MAPAS TEMÁTICOS DO BRASIL EM 3 MINUTOS OU MENOS](http://curso-r.com/blog/2017/05/04/2017-05-04-mapas-tematicos-3-minutos/)
 
-- [Spatial Data Analysis and Modeling with R](http://www.rspatial.org/#) - Prof. Hijamans
+- [Spatial Data Analysis and Modeling with R](http://www.rspatial.org/#) - Prof. Robert J. Hijmans
 
 - [An Introduction to Spatial Data Analysis and Visualisation in R ](https://data.cdrc.ac.uk/tutorial/an-introduction-to-spatial-data-analysis-and-visualisation-in-r)
 
