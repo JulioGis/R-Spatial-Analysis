@@ -1,6 +1,6 @@
 # Spatial Analysis
 
-# Books
+## Books
 
 - An Introduction to R for Spatial Analysis and Mapping. (Brunsdon & Comber 2015).
 
@@ -8,7 +8,7 @@
 
 - Spatial Statistics and Modeling. (Gaetan & Guyon 2010).
 
-# Tutorials
+## Tutorials
 
 - [Introdução aos mapas em R](http://rstudio-pubs-static.s3.amazonaws.com/176768_ec7fb4801e3a4772886d61e65885fbdd.html)
 
@@ -49,6 +49,8 @@
 
 ## Courses
 - [Working with Geospatial Data in R](https://www.datacamp.com/courses/working-with-geospatial-data-in-r)
+
+- [Learn GIS for free: The complete course](https://blog.gvsig.org/2017/08/01/learn-gis-for-free-the-complete-course/)
 
 ## Lectures
 - [Análise de Dados Geográficos com R](https://fenix.isa.ulisboa.pt/qubEdu/cursos/ce.adg_r/lateral/material-pedagogico) - Prof. Manuel Lameiras de Figueiredo Campagnolo
