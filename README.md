@@ -37,6 +37,8 @@
 
 - [Spatial Data Analysis and Modeling with R](http://www.rspatial.org/#) - Prof. Robert J. Hijmans
 
+- [Earth Lab - data lessons & tools](https://earthdatascience.org)
+
 - [An Introduction to Spatial Data Analysis and Visualisation in R ](https://data.cdrc.ac.uk/tutorial/an-introduction-to-spatial-data-analysis-and-visualisation-in-r)
 
 - [IBGE](http://mapas.ibge.gov.br)
