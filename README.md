@@ -53,6 +53,8 @@
 
 - [Gráficos com dimensão espacial e temporal](https://italocegatta.github.io/graficos-com-dimensao-espacial-e-temporal/)
 
+- [Free and Open Source GIS Rambling](https://anitagraser.com)
+
 ## Courses
 - [Working with Geospatial Data in R](https://www.datacamp.com/courses/working-with-geospatial-data-in-r)
 
