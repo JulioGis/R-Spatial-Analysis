@@ -62,3 +62,9 @@
 
 ## Lectures
 - [Análise de Dados Geográficos com R](https://fenix.isa.ulisboa.pt/qubEdu/cursos/ce.adg_r/lateral/material-pedagogico) - Prof. Manuel Lameiras de Figueiredo Campagnolo
+
+---
+
+### Importante!
+
+- [Using the Geopackage Format with R](http://jsta.github.io/2016/07/14/geopackage-r.html)
