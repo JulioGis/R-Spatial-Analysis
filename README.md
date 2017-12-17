@@ -2,11 +2,13 @@
 
 ## Books
 
-- An Introduction to R for Spatial Analysis and Mapping. (Brunsdon & Comber 2015).
+- An Introduction to R for Spatial Analysis and Mapping. (Brunsdon & Comber 2015)
 
-- Applied Spatial Data Analysis with R. (Bivant et al. 2013).
+- Applied Spatial Data Analysis with R. (Bivant et al. 2013)
 
-- Spatial Statistics and Modeling. (Gaetan & Guyon 2010).
+- Spatial Statistics and Modeling. (Gaetan & Guyon 2010)
+
+- [Intro to GIS and Spatial Analysis](https://mgimond.github.io/Spatial/index.html) (Gimond 2017)
 
 ## Tutorials
 
@@ -15,8 +17,6 @@
 - [R GIS Tutorial](http://pakillo.github.io/R-GIS-tutorial/)
 
 - [Making Maps with R](http://eriqande.github.io/rep-res-web/lectures/making-maps-with-R.html)
-
-- [Intro to GIS and Spatial Analysis](https://mgimond.github.io/Spatial/index.html)
 
 - [spatial-analyst.net](http://spatial-analyst.net/wiki/index.php?title=Main_Page)
 
