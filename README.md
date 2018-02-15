@@ -12,6 +12,8 @@
 
 ## Tutorials
 
+- [Spatial Data](http://ncss-tech.github.io/stats_for_soil_survey/chapters/2_data/2b_spatial_data.html)
+
 - [Introdução aos mapas em R](http://rstudio-pubs-static.s3.amazonaws.com/176768_ec7fb4801e3a4772886d61e65885fbdd.html)
 
 - [R GIS Tutorial](http://pakillo.github.io/R-GIS-tutorial/)
