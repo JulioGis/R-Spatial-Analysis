@@ -1,8 +1,9 @@
-# Load libraries ----------------------------------------------------------
+# font
+# https://gis.stackexchange.com/questions/110117/counting-number-of-points-in-polygon-using-r
 
-library(raster)
-library(sf)
-library(dplyr)
+# Load libraries ----------------------------------------------------------
+if(!require(pacman)) install.packages("pacman")
+pacman::p_load(raster, sf, dplyr)
 
 # Get sample data ---------------------------------------------------------
 
