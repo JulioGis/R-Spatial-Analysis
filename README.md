@@ -39,6 +39,10 @@
 - [Introduction to visualising spatial data in R](https://cran.r-project.org/doc/contrib/intro-spatial-rl.pdf)
 
 ## Sites
+- [Chris Brown’s blog](http://www.seascapemodels.org/bluecology_blog.html)
+
+-[Popular R resources](http://www.seascapemodels.org/code.html)
+
 - [GRÁFICOS MIOJO: MAPAS TEMÁTICOS DO BRASIL EM 3 MINUTOS OU MENOS](http://curso-r.com/blog/2017/05/04/2017-05-04-mapas-tematicos-3-minutos/)
 
 - [Spatial Data Analysis and Modeling with R](http://www.rspatial.org/#) - Prof. Robert J. Hijmans
