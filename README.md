@@ -10,6 +10,8 @@
 
 - [Intro to GIS and Spatial Analysis](https://mgimond.github.io/Spatial/index.html) (Gimond 2017)
 
+- [Geospatial Analysis](http://spatialanalysisonline.com/HTML/index.html) (Smith et al. 2018)
+
 ## Tutorials
 
 - [Introduction to GIS with R](https://www.jessesadler.com/post/gis-with-r-intro/)
